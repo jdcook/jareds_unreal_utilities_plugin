@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FCUtilities",
+	"Description": "A collection of helpful UE utilities",
+	"Category": "General",
+	"CreatedBy": "Jared Cook",
+	"CreatedByURL": "freshcookedgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FCUtilities",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
